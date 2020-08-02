@@ -756,7 +756,7 @@ center {
 }
 
 .portfolio-item:hover .thumb-inner h4 {
-    margin-top: 30%;
+    margin-top: 10%;
     color: #FFF;
     margin-bottom: 20px;
 }
@@ -867,7 +867,7 @@ center {
 }
 
 textarea.form-control {
-    height: 123px;
+    height: 80px;
     padding-top: 15px;
 }
 
