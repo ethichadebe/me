@@ -337,6 +337,7 @@ video {
     left: 0;
     right: 0;
     top: 0;
+    background-color: rgba(0, 0, 0, 0.5);
     z-index: 999;
 }
 
@@ -982,16 +983,6 @@ textarea.form-control {
 .filled-bar {
     position: absolute;
     z-index: 99;
-    width: 64%;
-    height: 6px;
-    background-color: #61bc21;
-    border-radius: 3px;
-}
-
-.filled-bar-2 {
-    position: absolute;
-    z-index: 99;
-    width: 82%;
     height: 6px;
     background-color: #61bc21;
     border-radius: 3px;
