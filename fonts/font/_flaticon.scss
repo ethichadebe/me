@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 02/08/2020 03:56
+    Creation date: 02/08/2020 09:47
     */
 
     @font-face {
@@ -37,20 +37,24 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-computer:before { content: "\f100"; }
-.flaticon-data:before { content: "\f101"; }
-.flaticon-settings:before { content: "\f102"; }
-.flaticon-api:before { content: "\f103"; }
-.flaticon-coding:before { content: "\f104"; }
-.flaticon-programming:before { content: "\f105"; }
-.flaticon-facebook:before { content: "\f106"; }
-.flaticon-instagram:before { content: "\f107"; }
+    .flaticon-youtube:before { content: "\f100"; }
+.flaticon-url:before { content: "\f101"; }
+.flaticon-google-play:before { content: "\f102"; }
+.flaticon-app-store:before { content: "\f103"; }
+.flaticon-read-more:before { content: "\f104"; }
+.flaticon-smartphone:before { content: "\f105"; }
+.flaticon-adaptative:before { content: "\f106"; }
+.flaticon-data:before { content: "\f107"; }
+.flaticon-settings:before { content: "\f108"; }
+.flaticon-api:before { content: "\f109"; }
     
-    $font-Flaticon-computer: "\f100";
-    $font-Flaticon-data: "\f101";
-    $font-Flaticon-settings: "\f102";
-    $font-Flaticon-api: "\f103";
-    $font-Flaticon-coding: "\f104";
-    $font-Flaticon-programming: "\f105";
-    $font-Flaticon-facebook: "\f106";
-    $font-Flaticon-instagram: "\f107";
+    $font-Flaticon-youtube: "\f100";
+    $font-Flaticon-url: "\f101";
+    $font-Flaticon-google-play: "\f102";
+    $font-Flaticon-app-store: "\f103";
+    $font-Flaticon-read-more: "\f104";
+    $font-Flaticon-smartphone: "\f105";
+    $font-Flaticon-adaptative: "\f106";
+    $font-Flaticon-data: "\f107";
+    $font-Flaticon-settings: "\f108";
+    $font-Flaticon-api: "\f109";
