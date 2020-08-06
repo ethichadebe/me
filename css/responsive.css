@@ -121,14 +121,14 @@
         margin-top: 35px;
     }
     .social-icons li a {
-        width: 25px;
-        height: 30px;
+        width: 48px;
+        height: 48px;
         display: inline-block;
-        line-height: 30px;
+        line-height: 50px;
         text-align: center;
-        background: rgb(66, 66, 66);
+        background: rgba(65, 65, 65);
         color: #61bc21;
-        font-size: 14px;
+        font-size: 18px;
     }
     .menu-trigger {
         margin: 0;
