@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 02/08/2020 09:47
+  	Creation date: 13/08/2020 03:47
   	*/
 
 @font-face {
@@ -28,13 +28,22 @@
 font-style: normal;
 }
 
-.flaticon-youtube:before { content: "\f100"; }
-.flaticon-url:before { content: "\f101"; }
-.flaticon-google-play:before { content: "\f102"; }
-.flaticon-app-store:before { content: "\f103"; }
-.flaticon-read-more:before { content: "\f104"; }
-.flaticon-smartphone:before { content: "\f105"; }
-.flaticon-adaptative:before { content: "\f106"; }
+.flaticon-api:before { content: "\f100"; }
+.flaticon-youtube:before { content: "\f101"; }
+.flaticon-url:before { content: "\f102"; }
+.flaticon-google-play:before { content: "\f103"; }
+.flaticon-app-store:before { content: "\f104"; }
+.flaticon-read-more:before { content: "\f105"; }
+.flaticon-devices:before { content: "\f106"; }
 .flaticon-data:before { content: "\f107"; }
-.flaticon-settings:before { content: "\f108"; }
-.flaticon-api:before { content: "\f109"; }
+.flaticon-smartphone:before { content: "\f108"; }
+.flaticon-html5:before { content: "\f109"; }
+.flaticon-mysql:before { content: "\f10a"; }
+.flaticon-xml:before { content: "\f10b"; }
+.flaticon-js-format:before { content: "\f10c"; }
+.flaticon-java:before { content: "\f10d"; }
+.flaticon-php:before { content: "\f10e"; }
+.flaticon-android:before { content: "\f10f"; }
+.flaticon-css:before { content: "\f110"; }
+.flaticon-c-sharp:before { content: "\f111"; }
+.flaticon-seo:before { content: "\f112"; }

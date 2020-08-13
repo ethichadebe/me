@@ -48,13 +48,6 @@
     .title-block {
         margin-bottom: 25px;
     }
-    .service-icon {
-        width: 80px;
-        height: 80px;
-        line-height: 80px;
-        font-size: 30px;
-        margin: 0 auto;
-    }
     .service-box {
         padding: 30px 20px;
     }
@@ -119,16 +112,6 @@
     }
     .owl-carousel .owl-dots {
         margin-top: 35px;
-    }
-    .social-icons li a {
-        width: 48px;
-        height: 48px;
-        display: inline-block;
-        line-height: 50px;
-        text-align: center;
-        background: rgba(65, 65, 65);
-        color: #61bc21;
-        font-size: 18px;
     }
     .menu-trigger {
         margin: 0;

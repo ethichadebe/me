@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 02/08/2020 09:47
+    Creation date: 13/08/2020 03:47
     */
 
     @font-face {
@@ -37,24 +37,42 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-youtube:before { content: "\f100"; }
-.flaticon-url:before { content: "\f101"; }
-.flaticon-google-play:before { content: "\f102"; }
-.flaticon-app-store:before { content: "\f103"; }
-.flaticon-read-more:before { content: "\f104"; }
-.flaticon-smartphone:before { content: "\f105"; }
-.flaticon-adaptative:before { content: "\f106"; }
+    .flaticon-api:before { content: "\f100"; }
+.flaticon-youtube:before { content: "\f101"; }
+.flaticon-url:before { content: "\f102"; }
+.flaticon-google-play:before { content: "\f103"; }
+.flaticon-app-store:before { content: "\f104"; }
+.flaticon-read-more:before { content: "\f105"; }
+.flaticon-devices:before { content: "\f106"; }
 .flaticon-data:before { content: "\f107"; }
-.flaticon-settings:before { content: "\f108"; }
-.flaticon-api:before { content: "\f109"; }
+.flaticon-smartphone:before { content: "\f108"; }
+.flaticon-html5:before { content: "\f109"; }
+.flaticon-mysql:before { content: "\f10a"; }
+.flaticon-xml:before { content: "\f10b"; }
+.flaticon-js-format:before { content: "\f10c"; }
+.flaticon-java:before { content: "\f10d"; }
+.flaticon-php:before { content: "\f10e"; }
+.flaticon-android:before { content: "\f10f"; }
+.flaticon-css:before { content: "\f110"; }
+.flaticon-c-sharp:before { content: "\f111"; }
+.flaticon-seo:before { content: "\f112"; }
     
-    $font-Flaticon-youtube: "\f100";
-    $font-Flaticon-url: "\f101";
-    $font-Flaticon-google-play: "\f102";
-    $font-Flaticon-app-store: "\f103";
-    $font-Flaticon-read-more: "\f104";
-    $font-Flaticon-smartphone: "\f105";
-    $font-Flaticon-adaptative: "\f106";
+    $font-Flaticon-api: "\f100";
+    $font-Flaticon-youtube: "\f101";
+    $font-Flaticon-url: "\f102";
+    $font-Flaticon-google-play: "\f103";
+    $font-Flaticon-app-store: "\f104";
+    $font-Flaticon-read-more: "\f105";
+    $font-Flaticon-devices: "\f106";
     $font-Flaticon-data: "\f107";
-    $font-Flaticon-settings: "\f108";
-    $font-Flaticon-api: "\f109";
+    $font-Flaticon-smartphone: "\f108";
+    $font-Flaticon-html5: "\f109";
+    $font-Flaticon-mysql: "\f10a";
+    $font-Flaticon-xml: "\f10b";
+    $font-Flaticon-js-format: "\f10c";
+    $font-Flaticon-java: "\f10d";
+    $font-Flaticon-php: "\f10e";
+    $font-Flaticon-android: "\f10f";
+    $font-Flaticon-css: "\f110";
+    $font-Flaticon-c-sharp: "\f111";
+    $font-Flaticon-seo: "\f112";

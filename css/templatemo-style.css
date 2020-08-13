@@ -39,7 +39,7 @@ body {
     font: 16px/1.6 'Raleway', Arial, Helvetica, sans-serif;
     color: #fff;
     text-align: center;
-    background: #222;
+    background: #000;
 }
 
 img {
@@ -53,6 +53,7 @@ html {
 
 .alltrans,
 .social-icons li a,
+.social-icon li,
 .owl-nav>button,
 .owl-nav>button:after,
 .counter-box,
@@ -433,6 +434,12 @@ center {
     list-style: none;
 }
 
+.social-icon {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .social-icons li {
     display: inline;
     margin: 1px 0px;
@@ -452,6 +459,20 @@ center {
 .social-icons li a:hover {
     color: #1e1e1e;
     background-color: #61bc21;
+}
+
+.social-icon li {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    line-height: 50px;
+    background: rgba(65, 65, 65, 0);
+    color: #fff;
+    font-size: 18px;
+}
+
+.social-icon li:hover {
+    color: #1e1e1e;
 }
 
 
