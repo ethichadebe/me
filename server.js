@@ -4,7 +4,7 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 //Loads static stuff
-app.use(express.static(__dirname));
+app.use(express.static(__dirname + "/frontend"));
 
 //routes
 app.get("/", function(req, res) {
@@ -12,5 +12,5 @@ app.get("/", function(req, res) {
 })
 
 app.listen(port, function() {
-    console.log("works")
+    console.log("Started");
 })
