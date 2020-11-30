@@ -12,7 +12,12 @@ app.get("/", (req, res) => {
 
 //routes
 app.get("/eyam", (req, res) => {
-  res.render("Eyam/index");
+  res.render("projects/Eyam/index");
+});
+
+//routes
+app.get("/next", (req, res) => {
+  res.render("projects/NEXT-LUXURYSCRT/index");
 });
 
 app.listen(port, () => {
