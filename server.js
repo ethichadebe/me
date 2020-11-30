@@ -11,8 +11,8 @@ app.get("/", (req, res) => {
 });
 
 //routes
-app.get("/eyam", (req, res) => {
-  res.render("projects/eyam/index");
+app.get("/eyamservices", (req, res) => {
+  res.render("projects/eyamservices/index");
 });
 
 //routes
